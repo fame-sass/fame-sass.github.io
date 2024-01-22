@@ -7,8 +7,17 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="post-content">
-    {{ content }}
+  <div>
+    {% if page.toc %}
+    <b>Jump directly to:</b>
+    <div id="table-of-contents">
+      {{ content | toc_only }}
+    </div>
+    <hr>
+    {% endif %}
+  <div class="post-content" id="markdown-content">
+    {{ content | inject_anchors }}
   </div>
+</div>
 
 </article>
