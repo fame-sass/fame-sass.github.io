@@ -6,10 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
+title: FoMo – International School on Foundations of (Software & Systems) Modeling
 ---
 
-
-# International School on *Foundations of (Software & Systems) Modelling*  
 
 ### September 19 – 21, 2024; [Johannes Kepler University Linz, Austria](./venue)
 
