@@ -12,9 +12,9 @@ permalink: /organization/
 
 ### Steering Committee
 * Benoît Combemale, University of Rennes, France 
-* Alfonso Pierantonio, TODO
-* Hans Vangheluwe, TODO
-* Daniel Varro, Linköping University, Sweden & McGill University, Canada
-* Manuel Wimmer, Johannes Kepler University, Linz
-* Steffen Zschaler, King’s College London, UK & [MDENet, the expert network on model-driven engineering](https://www.mde-network.org/){:target="_blank"}
+* Alfonso Pierantonio, University of L'Aquila, Italy
+* Hans Vangheluwe, University of Antwerp - Flanders Make, Belgium
+* Daniel Varro, Linköping University, Sweden / McGill University, Canada
+* Manuel Wimmer, Johannes Kepler University Linz, Austria
+* Steffen Zschaler, King’s College London, UK and [MDENet, the expert network on model-driven engineering](https://www.mde-network.org/){:target="_blank"}
 

@@ -2,7 +2,6 @@
 layout: page
 title: Venue
 permalink: /venue/
-toc: true
 ---
 
 ## Johannes Kepler University, Linz
@@ -74,6 +73,5 @@ You may also have a look here: [https://www.jku.at/campus/wohnen/hotels/](https:
 
 ## Social Activities
 
-
-
+tba.
 

@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: FoMo – International School on Foundations of (Software & Systems) Modeling
+title: FAME-SaSS - Foundations and Advances of Model-Based Engineering - Systems and Software School
 ---
 
 
@@ -19,51 +19,52 @@ title: FoMo – International School on Foundations of (Software & Systems) Mode
 ## Important Dates
 
 |---|---|
-|Application deadline | XXX XX, 2024 |
-|Notifications of acceptance or rejection | XXX XX, 2024 |
+|**Application deadline** | **June 26, 2024** |
+|Notifications of acceptance or rejection | July 10, 2024 |
 |School | September 19 – 21, 2024 | 
 
 ---
 
 Over the course of the past decades, software engineering has reached a level of maturity that requires 
-an ever greater use of modeling. For over two decades, the MODELS conference has served as the premier 
+an ever greater use of modelling. For over two decades, the MODELS conference has served as the premier 
 venue for the exchange of innovative technical ideas and experiences relating to the use of model-based 
 approaches in the development of complex software systems. During this time, many of its keynote speakers 
 have pointed out the critical role that education plays in expanding the use of models in software development. 
 
-The **FoMo School on Foundations of (Software & Systems) Modelling** aims at giving a comprehensive understanding 
-of the body of knowledge that constitutes the foundations of software and systems modelling. FoMo, organized in 
+The **Foundations and Advances of Model-Based Engineering - Systems and Software School (FAME-SaSS)** aims at giving a comprehensive understanding 
+of the body of knowledge that constitutes the foundations of software and systems modelling. FAME-SaSS, organized in 
 co-location with the MODELS conference, offers its participants a set of carefully selected lectures dealing with 
-various aspects of modeling. The objective is to provide each attendee with sufficient information to understand 
-the main foundations and current challenges in the use of modeling and modeling languages, and also to have a 
+various aspects of modelling. The objective is to provide each attendee with sufficient information to understand 
+the main foundations and current challenges in the use of modelling and modelling languages, and also to have a 
 clear picture of the most recent advances in the field.
 
 Our lecturers are recognized experts in model-based approaches with outstanding  pedagogical skills. 
-The FoMo program comprises a balanced mix of academic and industrial contributions. The academic 
+The FAME-SaSS program comprises a balanced mix of academic and industrial contributions. The academic 
 lecturers will provide an overview of their research themes, including descriptions of the state 
 of the art as well as an outline of emerging trends and challenges. The contributions of the 
-industrial lecturers will focus on results achieved in the practical application of modeling 
+industrial lecturers will focus on results achieved in the practical application of modelling 
 in industrial contexts.
 
 This school is targeted at Master's or PhD students, post-docs, lecturers, academics, 
 and professionals from industry who are interested in the above topics.
 
-Topics addressed during FoMo include: 
+Topics addressed during FAME-SaSS include: 
 - Definition, use, and analysis of model-based generative and re-engineering approaches
-- Design and implementation of modeling languages, their instrumentation with model editors, interpreters and generators, the integration of multiple modeling languages to achieve a system view, and the validation of both models and tools.
+- Design and implementation of modelling languages, their instrumentation with model editors, interpreters and generators, the integration of multiple modeling languages to achieve a system view, and the validation of both models and tools.
 - Tools, meta-tools, and language workbenches for model-based engineering, including model management and scalable model repositories.
 - Model transformation languages
-- Collaborative modeling to address team management issues
+- Collaborative modelling to address team management issues
 - Model-based variability management for software and system product lines
 - Evolution and co-evolution (model/metamodel)
-- Modeling for specific challenges such as collaboration, scalability, security, interoperability, adaptability, flexibility, maintainability, dependability, reuse, energy efficiency, sustainability, and uncertainty.
+- Modelling for specific challenges such as collaboration, scalability, security, interoperability, adaptability, flexibility, maintainability, dependability, reuse, energy efficiency, sustainability, and uncertainty.
 - New paradigms, formalisms, applications, approaches, frameworks, or processes for model-based engineering such as low-code/no-code development, digital twins, etc.
+- Use and application of LLMs & generative AI for MDE 
 
 The school will also provide lectures to help students prepare for their academic and industrial career. 
 This includes lectures on scientific methods and best practices, empirical methods, paper writing, 
 composition of research project proposals, etc. 
 
-FoMo is envisaged as a forum for exchange between its participants, and includes hands-on experience classes 
+FAME-SaSS is envisaged as a forum for exchange between its participants, and includes hands-on experience classes 
 and poster sessions that are open to all attendees. The school will take place at [Johannes Kepler University in Linz, Austria](venue),
 in the three days preceding the start of the [MODELS'24 conference](https://conf.researchr.org/home/models-2024){:target="_blank"}.
 
