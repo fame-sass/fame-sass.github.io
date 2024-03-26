@@ -4,7 +4,7 @@ title: Application
 permalink: /application/
 ---
 
-### All application documents should be sent to [fomo-school@jku.at](mailto:fomo-school@jku.at)
+### All application documents should be sent to [fame-sass@jku.at](mailto:fame-sass@jku.at)
 
 Registration is limited to a **maximum of 40 participants**.  
 Applicants are selected according to the motivation letter and their application documents. 
@@ -19,7 +19,7 @@ Applicants should submit
 |Notifications of acceptance or rejection | July 10, 2024 |
 |School | September 19 – 21, 2024 | 
 
-**Registration fee: XXX €**    
+**Registration fee: € 300**    
 The registration includes attendance at all scientific sessions, social activities, lunches, dinners and coffee breaks. 
 
 For administrative reasons, cancellations are not admitted, but we are happy to transfer registrations to other attendees.

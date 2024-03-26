@@ -1,6 +1,6 @@
-docker build --rm -t fomo-school:latest .
+docker build --rm -t fame-sass:latest .
 docker run --rm \
   -p 4000:4000   \
   --volume "$PWD:/srv/jekyll"   \
-  fomo-school \
+  fame-sass \
   jekyll serve --trace
