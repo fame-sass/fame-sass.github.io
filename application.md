@@ -19,7 +19,7 @@ Applicants should submit
 |Notifications of acceptance or rejection | July 10, 2024 |
 |School | September 19 – 21, 2024 | 
 
-**Registration fee: € 300**    
+**Registration fee: TBA**    
 The registration includes attendance at all scientific sessions, social activities, lunches, dinners and coffee breaks. 
 
 For administrative reasons, cancellations are not admitted, but we are happy to transfer registrations to other attendees.
