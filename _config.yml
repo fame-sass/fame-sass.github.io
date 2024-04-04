@@ -1,12 +1,12 @@
-title: FAME-SaSS
+title: FAME School
 author:
-  name: FAME-SaSS
-  email: fame-sass@jku.at
+  name: FAME School
+  email: fame-school@jku.at
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  1st International Foundations and Advances of Model-Based Engineering - Systems and Software School (FAME-SaSS)
+  1st International School on Foundations and Advances of Model-based Engineering (FAME)
 
 # Build settings
 

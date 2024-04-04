@@ -9,7 +9,7 @@ permalink: /venue/
 **Address:** Altenberger Straße 69, 4040 Linz, Austria
 
 
-<img src="../assets/Campusplan.png" />
+<img src="../assets/SP2.png" />
 
 
 ## About Linz
