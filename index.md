@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: 1st International School on Foundations and Advances of Model-Based Engineering (FAME)
+title: FAME – 1st International School on Foundations and Advances of Model-Based Engineering
 ---
 
 

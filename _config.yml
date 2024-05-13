@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  1st International School on Foundations and Advances of Model-based Engineering (FAME)
+  FAME – 1st International School on Foundations and Advances of Model-based Engineering
 
 # Build settings
 
@@ -31,6 +31,7 @@ plugins:
 header_pages:
   - application.md
   - venue.md
+  - program.md
   - organization.md
 
 # Set to `true` to show excerpts on the homepage.
