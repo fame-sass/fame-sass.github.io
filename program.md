@@ -20,7 +20,7 @@ The program consists of lectures and practical sessions by renowned speakers on 
 - Scientific methods _(by **Manuel Wimmer**, JKU Linz, Austria)_
 - Create your own career path _(by **Øystein Haugen**, Østfold University College, Norway)_
 - MDE hands-on _(by **Steffen Zschaler**, King’s College London, UK)_
-- Foundations and applications of AI and MDE
+- Foundations and applications of AI and MDE (by **Lola Burgueño**, University of Malaga)
 - Academic and industrial tool sessions
 
 
