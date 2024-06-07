@@ -12,7 +12,7 @@ The program consists of lectures and practical sessions by renowned speakers on 
 - Model evolution and co-evolution  _(by **Alexander Egyed**, JKU Linz, Austria)_
 - Engineering modeling languages _(by **Benoît Combemale**, University of Rennes, France)_
 - Model-based variability management
-- Models at runtime and self-adaptive systems
+- Models at runtime and self-adaptive systems _(by **Sebastian Götz**, University of Technology Dresden, Germany and **Nelly Bencomo**, Durham University, UK)_
 - Engineering digital twins _(by **Judith Michael**, RWTH Aachen, Germany)_
 - Student presentations
 
@@ -23,6 +23,9 @@ The program consists of lectures and practical sessions by renowned speakers on 
 - Foundations and applications of AI and MDE (by **Lola Burgueño**, University of Malaga)
 - Academic and industrial tool sessions
 
+**Tool / Industry Presentations**
+- Developing Next-Generation Modeling Tools with Open-Source Technologies _(by **Philip Langer**, EclipseSource and **Dominik Bork**, Vienna University of Technology)_
+- 
 
 *Note that the program is subject to minor changes
 in case of scheduling or speaker availability problems.*
