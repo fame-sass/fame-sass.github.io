@@ -6,3 +6,10 @@ body {
     text-align: justify;
   }
 }
+
+table.program td, table.program th{
+  padding: 3px;
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+}

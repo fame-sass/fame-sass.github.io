@@ -19,7 +19,7 @@ title: FAME – 1st International School on Foundations and Advances of Model-Ba
 ## Important Dates
 
 |---|---|
-|**Application deadline** | **June 26, 2024** |
+|**<span style="color:red">Application deadline</span>** | **<span style="color:red">June 26, 2024</span>** |
 |Notifications of acceptance or rejection | July 10, 2024 |
 |School | September 19 – 21, 2024 | 
 
@@ -71,4 +71,27 @@ in the three days preceding the start of the [MODELS'24 conference](https://conf
 ### We look forward to your participation!
 
 
+# Sponsors
 
+We kindly thank our partners who kindly helped enable the FAME School.
+
+## <a href="https://netgrif.com/" target="_blank">NETGRIF, s.r.o.</a> 
+<div style="display: grid; place-items: center;">
+<a href="https://netgrif.com/" target="_blank">
+<img src="/assets/sponsors/netgrif.svg" width="400" title="Netgrif – Logo" style=""/>
+</a>
+</div>
+
+## <a href="https://eapls.org/" target="_blank">European Association for Programming Languages and Systems (EAPLS) </a> 
+<div style="display: grid; place-items: center;">
+<a href="https://eapls.org/" target="_blank">
+<img src="/assets/sponsors/EAPLS.jpg" width="400" title="EAPLS – Logo"/>
+</a>
+</div>
+
+## <a href="https://jku.at" target="_blank">Johannes Kepler University</a> 
+<div style="display: grid; place-items: center;">
+<a href="https://jku.at" target="_blank">
+<img src="/assets/sponsors/JKU.png" width="800" title="Johannes Kepler University – Logo"/>
+</a>
+</div>
