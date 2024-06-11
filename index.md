@@ -73,7 +73,7 @@ in the three days preceding the start of the [MODELS'24 conference](https://conf
 
 # Sponsors
 
-We kindly thank our partners who kindly helped enable the FAME School.
+We thank our partners who kindly helped enable the FAME School.
 
 ## <a href="https://netgrif.com/" target="_blank">NETGRIF, s.r.o.</a> 
 <div style="display: grid; place-items: center;">
