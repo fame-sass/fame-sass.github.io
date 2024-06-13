@@ -65,11 +65,12 @@ Note that the program is subject to minor changes in case of scheduling or speak
 <tr>
 <td rowspan="2">16:00 - 18:00</td>
 <td>Student Presentations</td>
-<td rowspan="2">Student Presentations / Tool Presentations</td>
+<td>Student Presentations</td>
 <td rowspan="2">Student Presentations / Tool Presentations</td>
 </tr>
 <tr>
 <td><a href="#Developing-Next-Generation-Modeling-Tools">Developing Next Generation Modeling Tools with Open-Source Technologies</a></td>
+<td><a href="#Netgrif">Netgrif - Industrial Tool Presentation</a></td>
 </tr>
 <tr>
 <td>Evening</td>
