@@ -5,7 +5,7 @@ permalink: /program/
 sections:
  - lecture: Lectures
  - practical: Practical Hands-on Sessions
- - tool: Tool & Industry Presentations
+ - tool: Academic & Industry Tool Presentations
 ---
 
 The program consists of lectures and practical sessions by renowned speakers on the following topics.
@@ -28,9 +28,9 @@ Note that the program is subject to minor changes in case of scheduling or speak
 </tr>
 <tr>
 <td>09:00 - 10:30</td>
-<td><a href="#MDE-Foundations">MDE Foundations</a></td>
-<td><a href="#Model-Transformation">Model Transformation and Management</a></td>
-<td><a href="#Model-Evolution">Model Evolution and Co-evolution</a></td>
+<td><a href="#MDE-Foundations">MDE Foundations</a><br /><span class="author">by Hans Vangheluwe</span></td>
+<td><a href="#Model-Transformation">Model Transformation and Management</a><br /><span class="author">by Dimitris Kolovos</span></td>
+<td><a href="#Model-Evolution">Model Evolution and Co-evolution</a><br /><span class="author">by Alexander Egyed</span></td>
 </tr>
   
 <tr>
@@ -40,9 +40,9 @@ Note that the program is subject to minor changes in case of scheduling or speak
   
 <tr>
 <td>11:00 - 12:30</td>
-<td><a href="#Engineering-Modeling-Languages">Engineering Modeling Languages</a></td>
-<td><a href="#Model-Based-Variability-Management">Model-Based Variability Management</a></td>
-<td><a href="#Models-At-Runtime">Models at Runtime and Self-Adaptive Systems</a></td>
+<td><a href="#Engineering-Modeling-Languages">Engineering Modeling Languages</a><br /><span class="author">by Benoît Combemale</span></td>
+<td><a href="#Model-Based-Variability-Management">Model-Based Variability Management</a><br /><span class="author">by Rick Rabiser</span></td>
+<td><a href="#Models-At-Runtime">Models at Runtime and Self-Adaptive Systems</a><br /><span class="author">by Sebastian Götz and Nelly Bencomo</span></td>
 </tr>
 <tr>
 <td>12:30 - 13:30</td>
@@ -50,14 +50,14 @@ Note that the program is subject to minor changes in case of scheduling or speak
 </tr>
 <tr>
 <td rowspan="2">13:30 - 15:30</td>
-<td><a href="#Scientific-Methods">Scientific methods</a></td>
-<td><a href="#MDE-Hands-On">MDE Hands-On</a></td>
-<td><a href="#Engineering-Digital-Twins">Engineering Digital Twins</a></td>
+<td><a href="#Scientific-Methods">Scientific methods</a><br /><span class="author">by Manuel Wimmer</span></td>
+<td><a href="#MDE-Hands-On">MDE Hands-On</a><br /><span class="author">by Steffen Zschaler</span></td>
+<td><a href="#Engineering-Digital-Twins">Engineering Digital Twins</a><br /><span class="author">by Judith Michael</span></td>
 </tr>
 <tr>
-<td><a href="#Create-Your-Career-Path">Create Your Own Career Path</a></td>
-<td><a href="#Refinery">Refinery</a></td>
-<td><a href="#Foundations-And-Applications-Of-AI-and-MDE">Foundations and Applications of AI and MDE</a></td>
+<td><a href="#Create-Your-Career-Path">Create Your Own Career Path</a><br /><span class="author">by Øystein Haugen</span></td>
+<td><a href="#Refinery">Refinery</a><br /><span class="author">by Kristóf Marussy</span></td>
+<td><a href="#Foundations-And-Applications-Of-AI-and-MDE">Foundations and Applications of AI and MDE</a><br /><span class="author">by Lola Burgueño</span></td>
 </tr>
 <tr>
 <td>15:30 - 16:00</td>
@@ -70,8 +70,8 @@ Note that the program is subject to minor changes in case of scheduling or speak
 <td rowspan="2">Student Presentations / Tool Presentations</td>
 </tr>
 <tr>
-<td><a href="#Developing-Next-Generation-Modeling-Tools">Developing Next Generation Modeling Tools with Open-Source Technologies</a></td>
-<td><a href="#Netgrif">Netgrif - Industrial Tool Presentation</a></td>
+<td><a href="#Developing-Next-Generation-Modeling-Tools">Developing Next Generation Modeling Tools with Open-Source Technologies</a><br /><span class="author">by Philip Langer and Dominik Bork</span></td>
+<td><a href="#Netgrif">Industrial Tool Presentation</a><br /><span class="author">by Netgrif</span></td>
 </tr>
 <tr>
 <td>Evening</td>
