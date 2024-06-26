@@ -50,7 +50,7 @@ Note that the program is subject to minor changes in case of scheduling or speak
 </tr>
 <tr>
 <td rowspan="2">13:30 - 15:30</td>
-<td><a href="#Scientific-Methods">Scientific methods</a><br /><span class="author">by Manuel Wimmer</span></td>
+<td><a href="#Design-Science-for-MDE">Design Science for Model-Driven Software and Systems Engineering</a><br /><span class="author">by Manuel Wimmer</span></td>
 <td><a href="#MDE-Hands-On">MDE Hands-On</a><br /><span class="author">by Steffen Zschaler</span></td>
 <td><a href="#Engineering-Digital-Twins">Engineering Digital Twins</a><br /><span class="author">by Judith Michael</span></td>
 </tr>

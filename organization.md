@@ -4,6 +4,10 @@ title: Organization
 permalink: /organization/
 ---
 
+
+### Contact
+Please send all inquiries to [fame-school@jku.at](mailto:fame-school@jku.at).
+
 ### Organizing Committee
 
 * [Stefan Klikovits](https://klikovits.net){:target="_blank"}, Johannes Kepler University Linz, Austria (General Chair)
